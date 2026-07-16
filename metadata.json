@@ -1,0 +1,6 @@
+{
+  "name": "MedGrowth OS",
+  "description": "Premium Executive Marketing Management Dashboard for Hospital Digital Agencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
